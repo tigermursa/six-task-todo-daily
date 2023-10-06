@@ -9,4 +9,5 @@ const store = configureStore({
 
 export default store;
 
-Step 5 :
+Step 5 : add redux Provider in the main.jsx file 
+Step 6 : 
