@@ -1,11 +1,10 @@
-
 import "./App.css";
-
+import TaskPage from "./Components/TaskPage/TaskPage";
 
 function App() {
   return (
     <>
-   hi
+      <TaskPage />
     </>
   );
 }
